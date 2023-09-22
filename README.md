@@ -1,1 +1,1 @@
-# Dot net lectures
+# .NET lectures
